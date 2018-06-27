@@ -100,16 +100,6 @@
             </div>
         </div>
     </section>
-
-
-
-    <script>
-        $('.countdown').ClassyCountdown({
-            theme: "{{ site.countdown.theme }}",
-            now: $.now() / 1000,
-            end: Date.UTC({{ site.countdown.year }}, {{ site.countdown.month }} - 1, {{ site.countdown.day }}, {{ site.countdown.hour }}, {{ site.countdown.minute }}, 0) / 1000
-        });
-    </script>
 </body>
 
 </html>
