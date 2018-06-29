@@ -6,7 +6,7 @@ title: QuizBuzz
 description: An App to Quiz You
 
 # Site background
-background: "https://raw.githubusercontent.com/MrDemonWolf/jekyllrb-bootstrap-coming-soon-template/master/assets/video/bg.mp4"
+background: "bg.jpg"
 
 # Site logo
 logo: "images/logo.png"
