@@ -3,8 +3,7 @@ layout: soon
 permalink: /
 ---
 
-# Coming soon
+# QuizBuzz
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
+We are nearly complete, we will launch an app very soon.
 
