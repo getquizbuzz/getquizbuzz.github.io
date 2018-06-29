@@ -27,10 +27,10 @@ subscribe:
 # Social media links
 # (This can be commented out if not required.)
 social:
-  facebook: "https://twitter.com/getquizbuzz"
-  twitter: "https://twitter.com/getquizbuzz"
-  google: "https://plus.google.com/b/102465074739119085793/102465074739119085793"
-  instagram: "https://www.instagram.com/getquizbuzz/"
+  facebook: "getquizbuzz"
+  twitter: "getquizbuzz"
+  google: "102465074739119085793/102465074739119085793"
+  instagram: "getquizbuzz"
 #  pinterest: "#"
 #  snapchat: "#"
 #  linkedin: "in/#"
