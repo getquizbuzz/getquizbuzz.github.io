@@ -27,13 +27,13 @@ subscribe:
 # Social media links
 # (This can be commented out if not required.)
 social:
-  facebook: "#"
-  twitter: "#"
-  google: "#"
-  instagram: "#"
-  pinterest: "#"
-  snapchat: "#"
-  linkedin: "in/#"
+  facebook: "https://twitter.com/getquizbuzz"
+  twitter: "https://twitter.com/getquizbuzz"
+  google: "https://plus.google.com/b/102465074739119085793/102465074739119085793"
+  instagram: "https://www.instagram.com/getquizbuzz/"
+#  pinterest: "#"
+#  snapchat: "#"
+#  linkedin: "in/#"
 
 # Build settings
 markdown: kramdown
