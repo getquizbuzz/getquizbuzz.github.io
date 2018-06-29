@@ -1,9 +1,9 @@
 # Site settings
 # Site title
-title: Coming Soon
+title: QuizBuzz
 
 # Site description
-description: A fancy description of the site
+description: An App to Quiz You
 
 # Site background
 background: "images/background.jpg"
@@ -13,11 +13,11 @@ logo: "images/logo.png"
 
 # Countdown clock
 # (This can be commented out if not required.)
-countdown:
+# countdown:
   # format: "2013-09-25 16:00:00 +0800"
-  launch_date: 2020-01-01
+  # launch_date: 2020-01-01
   # %d, %H, %M, %S available
-  format: "%d days, %H hours, %M minutes, %S seconds"
+  # format: "%d days, %H hours, %M minutes, %S seconds"
 
 # Mailing list subscription
 # (This can be commented out if not required.)
