@@ -1,32 +1,32 @@
-# YAX-Coming-soon-Jekyll-Template
-Free Bootstrap HTML5 CSS3 Responsive Coming soon  Jekyll template
+# Soon
 
-Designed by : Ilya B.  
-url: https://www.behance.net/gallery/18421675/Free-Bootstrap-Psd-Coming-Soon-Template  
+## Introduction
 
-Converted PSD to HTML/CSS by:  
-Morteza Aghili  
-bio: http://mortezaaghili.github.io/  
+Soon is a Jekyll site that produces a "coming soon" page.  You can preview
+the site [here](https://kelvinmo.github.io/soon).
 
-Adpated to Jekyll by [yonojoy](https://github.com/yonojoy)
+Additional optional features include:
 
-## Usage
-Edit `index.md` to contain your message.
+* A countdown clock
+* Mailing list subscription form
+* Social media links
 
-Edit `_config.yml` and add the following params:
+## Customisation
 
-* `countdown` to contain the target date in GMT/UTC
-* `owner` to contain infos about the site owner.
+The main content can be customised in `index.md`.
 
-That's it.
+Most of the configuration can be done in `_config.yml`.  Fine-tuning of
+styles and additional content can be done in `soon.scss` and the
+partials in the `_includes` directory.
 
-## Installation
+The styles are largely based on a heavily simplified version of
+[Bulma](https://bulma.io).
 
-Requires [Jekyll](http://jekyllrb.com/) 3+. 
+## Licence
 
-If you are creating a new Jekyll site using Skinny Bones following these steps:
+BSD 3 clause.
 
-1. Download and unzip.
-2. Run `bundle install` to install all dependencies 
-3. Update `_config.yml` and `index.md` as described above.
+## Placeholder Artwork Credits
 
+* Placholder background from [Pexels](https://www.pexels.com/photo/abstract-art-astronomy-background-220071/)
+* Placeholder logo from [LogoDust](http://logodust.com/)
