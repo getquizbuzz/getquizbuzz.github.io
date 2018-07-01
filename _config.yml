@@ -22,8 +22,8 @@ logo: "images/logo.png"
 # Mailing list subscription
 # (This can be commented out if not required.)
 subscribe:
-  action: "/thank-you"
-
+  action: "https://getquizbuzz.us18.list-manage.com/subscribe/post?u=c92341b022a1a492b034243ec&amp;id=40468781c9"
+  
 # Social media links
 # (This can be commented out if not required.)
 social:
